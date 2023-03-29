@@ -1,2 +1,4 @@
-package com.example.testirovanie;public class User {
+package com.example.testirovanie;
+
+public class User {
 }
